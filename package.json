@@ -32,7 +32,7 @@
     "less-loader": "^4.1.0",
     "qs": "^6.6.0",
     "style-loader": "^0.23.1",
-    "three": "^0.99.0",
+    "three": "^0.125.0",
     "vue": "^2.5.2",
     "vue-canvas-nest": "^2.0.0",
     "vue-router": "^3.0.1",
